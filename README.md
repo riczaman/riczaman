@@ -18,6 +18,5 @@
 <br/>
 <br/>
 
-[![Ricky's GitHub stats](https://github-readme-stats.vercel.app/api?username=riczaman)](https://github.com/anuraghazra/github-readme-stats)
-
-  <!-- <img align="left" alt="Ricky's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=riczaman&show_icons=true&hide_border=true&count_private=true" /> [https://github-readme-stats.vercel.app/api/top-langs/?username=riczaman)] -->
+### My Stats ✔️
+[![Ricky's GitHub stats](https://github-readme-stats.vercel.app/api?username=riczaman&show_icons=true&count_private=true)] [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riczaman&layout=compact)]
