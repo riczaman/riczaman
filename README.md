@@ -19,4 +19,4 @@
 <br/>
 
 ### My Stats ✔️
-[![Ricky's GitHub stats](https://github-readme-stats.vercel.app/api?username=riczaman&show_icons=true&count_private=true)]
+![Ricky's GitHub stats](https://github-readme-stats.vercel.app/api?username=riczaman&show_icons=true&count_private=true)
