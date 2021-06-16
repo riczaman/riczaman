@@ -19,4 +19,4 @@
 
 ### My Stats ✔️
 ![Ricky's GitHub stats](https://github-readme-stats.vercel.app/api?username=riczaman&show_icons=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riczaman)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riczaman&layout=compact)
