@@ -1,6 +1,6 @@
 ### Hi there, I'm Ricky 👋
 
-- 🏆 2021 Goals: Contribute more to Open Source projects & Build 1 full stack applications
+- 🏆 2021 Goals: Contribute more to Open Source projects & Build 1 full stack application
 - 💡 I’m currently learning React & NextJS
 - 👯 I’m looking to collaborate with other content creators
 - 🏀 Fun fact: I went to the same highschool as Corey Joseph
