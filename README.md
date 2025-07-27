@@ -41,7 +41,6 @@ I'm a **DevSecOps Engineer** passionate about bridging the gap between developme
 
 ### Security Tools
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/snyk/snyk-icon.svg" alt="Snyk" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/imgs/logo.png" alt="Trivy" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg" alt="Vault" width="40" height="40"/>
 </p>
@@ -88,11 +87,8 @@ previous_experience:
 ## 🤝 Let's Connect!
 
 <p align="left">
-<a href="https://linkedin.com/in/your-profile" target="_blank">
+<a href="https://www.linkedin.com/in/ricky-zaman/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://twitter.com/your-handle" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
 </a>
 </p>
 
