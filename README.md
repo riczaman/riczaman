@@ -1,8 +1,48 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ricky%20Zaman&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Engineering%20Manager%20%7C%20Builder%20of%20Teams%20%26%20Systems&descAlignY=55&descSize=16)
+<div align="center">
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 160" width="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0D1117"/>
+      <stop offset="50%" style="stop-color:#1a1040"/>
+      <stop offset="100%" style="stop-color:#0D1117"/>
+    </linearGradient>
+    <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#a78bfa"/>
+      <stop offset="100%" style="stop-color:#60a5fa"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <!-- Background -->
+  <rect width="860" height="160" fill="url(#bg)" rx="12"/>
+  <!-- Subtle grid lines -->
+  <line x1="0" y1="40" x2="860" y2="40" stroke="#6E57F720" stroke-width="1"/>
+  <line x1="0" y1="80" x2="860" y2="80" stroke="#6E57F720" stroke-width="1"/>
+  <line x1="0" y1="120" x2="860" y2="120" stroke="#6E57F720" stroke-width="1"/>
+  <line x1="215" y1="0" x2="215" y2="160" stroke="#6E57F710" stroke-width="1"/>
+  <line x1="430" y1="0" x2="430" y2="160" stroke="#6E57F710" stroke-width="1"/>
+  <line x1="645" y1="0" x2="645" y2="160" stroke="#6E57F710" stroke-width="1"/>
+  <!-- Accent dots -->
+  <circle cx="60" cy="80" r="40" fill="#6E57F708"/>
+  <circle cx="800" cy="80" r="40" fill="#60a5fa08"/>
+  <!-- Name -->
+  <text x="430" y="68" font-family="'Segoe UI', system-ui, sans-serif" font-size="38" font-weight="700" fill="url(#text-grad)" text-anchor="middle" filter="url(#glow)">Ricky Zaman</text>
+  <!-- Role -->
+  <text x="430" y="100" font-family="'Segoe UI', system-ui, sans-serif" font-size="16" fill="#94a3b8" text-anchor="middle" letter-spacing="3">ENGINEERING MANAGER</text>
+  <!-- Tagline -->
+  <text x="430" y="128" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" fill="#6E57F7" text-anchor="middle" letter-spacing="1">People · Security · Scale · Ownership</text>
+</svg>
+
+</div>
+
+<br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&random=false&width=500&lines=Engineering+Manager+%F0%9F%9A%80;People-First+Leadership;DevSecOps+%26+Cloud+Architecture;Building+High-Performance+Teams;Security+%7C+Scale+%7C+Ownership)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6E57F7&center=true&vCenter=true&random=false&width=500&lines=Engineering+Manager+%F0%9F%9A%80;People-First+Leadership;DevSecOps+%26+Cloud+Architecture;Building+High-Performance+Teams;Security+%7C+Scale+%7C+Ownership)](https://git.io/typing-svg)
 
 </div>
 
@@ -26,6 +66,7 @@ const ricky: EngineeringManager = {
   based:       "Toronto, Ontario 🇨🇦",
   background:  ["DevSecOps", "Full-Stack Development", "Cloud Architecture"],
   leadership:  ["Team Growth", "Hiring & Mentorship", "Cross-functional Alignment"],
+  values:      ["Psychological Safety", "Ownership Culture", "Continuous Improvement"],
   currentFocus:[
     "Scaling engineering teams",
     "Bridging security into the SDLC",
@@ -145,16 +186,6 @@ const ricky: EngineeringManager = {
   </picture>
 </div>
 
-> 💡 Snake not showing? Go to the **Actions** tab in this repo → **Generate Snake Animation** → **Run workflow**. Once it completes, the `output` branch is created and the snake appears here automatically.
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=riczaman&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" alt="GitHub Trophies"/>
-</div>
-
 ---
 
 ## 📈 Contribution Activity
@@ -199,7 +230,18 @@ what_I_optimize_for:
 <br/>
 
 <div align="center">
-  <i>⭐️ "Culture eats strategy for breakfast — but security eats both if you ignore it."</i>
-</div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 60" width="100%">
+  <defs>
+    <linearGradient id="footer-bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0D1117"/>
+      <stop offset="50%" style="stop-color:#1a1040"/>
+      <stop offset="100%" style="stop-color:#0D1117"/>
+    </linearGradient>
+  </defs>
+  <rect width="860" height="60" fill="url(#footer-bg)" rx="12"/>
+  <text x="430" y="28" font-family="'Segoe UI', system-ui, sans-serif" font-size="11" fill="#6E57F7" text-anchor="middle" letter-spacing="1">⭐️  "Culture eats strategy for breakfast — but security eats both if you ignore it."</text>
+  <text x="430" y="46" font-family="'Segoe UI', system-ui, sans-serif" font-size="10" fill="#475569" text-anchor="middle">Mississauga, Ontario 🇨🇦  ·  Engineering Manager  ·  riczaman</text>
+</svg>
+
+</div>
